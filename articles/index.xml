@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on gverduci site (hugo test)</title>
+    <link>https://gverduci.github.io/articles/</link>
+    <description>Recent content in Articles on gverduci site (hugo test)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Dec 2021 19:05:54 +0000</lastBuildDate><atom:link href="https://gverduci.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fourth_content</title>
+      <link>https://gverduci.github.io/articles/fourth_content/</link>
+      <pubDate>Wed, 08 Dec 2021 19:05:54 +0000</pubDate>
+      
+      <guid>https://gverduci.github.io/articles/fourth_content/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
