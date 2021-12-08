@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on gi.vi.23 site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on gi.vi.23 site</description>
+    <title>Posts on gverduci site (hugo test)</title>
+    <link>https://gverduci.github.io/posts/</link>
+    <description>Recent content in Posts on gverduci site (hugo test)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Dec 2021 13:32:22 +0000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Dec 2021 13:32:22 +0000</lastBuildDate><atom:link href="https://gverduci.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post 3</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <title>My First Post 4</title>
+      <link>https://gverduci.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 08 Dec 2021 13:32:22 +0000</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://gverduci.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     
