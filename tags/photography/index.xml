@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photography on gverduci</title>
+    <link>https://gverduci.github.io/tags/photography/</link>
+    <description>Recent content in photography on gverduci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Dec 2021 23:10:46 +0000</lastBuildDate><atom:link href="https://gverduci.github.io/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fog</title>
+      <link>https://gverduci.github.io/posts/fog/</link>
+      <pubDate>Sat, 11 Dec 2021 23:10:46 +0000</pubDate>
+      
+      <guid>https://gverduci.github.io/posts/fog/</guid>
+      <description>Luky man!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,46 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on gverduci site (hugo test)</title>
+    <title>Posts on gverduci</title>
     <link>https://gverduci.github.io/posts/</link>
-    <description>Recent content in Posts on gverduci site (hugo test)</description>
+    <description>Recent content in Posts on gverduci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Dec 2021 19:03:18 +0000</lastBuildDate><atom:link href="https://gverduci.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Dec 2021 14:52:48 +0000</lastBuildDate><atom:link href="https://gverduci.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fourth_content</title>
-      <link>https://gverduci.github.io/posts/fourth_content/</link>
-      <pubDate>Wed, 08 Dec 2021 19:03:18 +0000</pubDate>
+      <title>Covid report Valle del Crati</title>
+      <link>https://gverduci.github.io/posts/covidcs/</link>
+      <pubDate>Fri, 24 Dec 2021 14:52:48 +0000</pubDate>
       
-      <guid>https://gverduci.github.io/posts/fourth_content/</guid>
+      <guid>https://gverduci.github.io/posts/covidcs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Third_content</title>
-      <link>https://gverduci.github.io/posts/third_content/</link>
-      <pubDate>Wed, 08 Dec 2021 19:02:59 +0000</pubDate>
+      <title>Fog</title>
+      <link>https://gverduci.github.io/posts/fog/</link>
+      <pubDate>Sat, 11 Dec 2021 23:10:46 +0000</pubDate>
       
-      <guid>https://gverduci.github.io/posts/third_content/</guid>
-      <description></description>
+      <guid>https://gverduci.github.io/posts/fog/</guid>
+      <description>Luky man!</description>
     </item>
     
     <item>
-      <title>Second_content</title>
-      <link>https://gverduci.github.io/posts/second_content/</link>
-      <pubDate>Wed, 08 Dec 2021 19:02:33 +0000</pubDate>
-      
-      <guid>https://gverduci.github.io/posts/second_content/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My First Post 4</title>
+      <title>My First Post</title>
       <link>https://gverduci.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 08 Dec 2021 13:32:22 +0000</pubDate>
+      <pubDate>Sat, 11 Dec 2021 15:59:42 +0000</pubDate>
       
       <guid>https://gverduci.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <description>Last week I meet HUGO, an awesome framework for building website, and this is my test.</description>
     </item>
     
   </channel>
