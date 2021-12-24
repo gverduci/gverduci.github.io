@@ -8,12 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Dec 2021 14:52:48 +0000</lastBuildDate><atom:link href="https://gverduci.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Covid report Valle del Crati</title>
+      <title>My city report</title>
       <link>https://gverduci.github.io/posts/covidcs/</link>
       <pubDate>Fri, 24 Dec 2021 14:52:48 +0000</pubDate>
       
       <guid>https://gverduci.github.io/posts/covidcs/</guid>
-      <description></description>
+      <description>Disclaimer
+I am a software developer, and am not an infectious disease expert or epidemiologist. This chart was created for study and personal use only. The data is sourced from ASP. This chart should not be used for medical decision making.
+Chart
+Data source
+Scripts</description>
     </item>
     
     <item>
