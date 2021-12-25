@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gverduci</title>
-    <link>https://gverduci.github.io/it/</link>
-    <description>Recent content on gverduci</description>
+    <title>Posts on gverduci</title>
+    <link>https://gverduci.github.io/it/posts/</link>
+    <description>Recent content in Posts on gverduci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Dec 2021 14:52:48 +0000</lastBuildDate><atom:link href="https://gverduci.github.io/it/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Dec 2021 14:52:48 +0000</lastBuildDate><atom:link href="https://gverduci.github.io/it/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Report sulla mia città</title>
       <link>https://gverduci.github.io/it/posts/covidcs/</link>

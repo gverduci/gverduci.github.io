@@ -21,16 +21,46 @@
     <lastmod>2021-12-24T14:52:48+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/posts/covidcs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/posts/covidcs/"
+                />
   </url><url>
     <loc>https://gverduci.github.io/posts/</loc>
     <lastmod>2021-12-24T14:52:48+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/posts/"
+                />
   </url><url>
     <loc>https://gverduci.github.io/tags/report/</loc>
     <lastmod>2021-12-24T14:52:48+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/tags/report/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/tags/report/"
+                />
   </url><url>
     <loc>https://gverduci.github.io/tags/</loc>
     <lastmod>2021-12-24T14:52:48+00:00</lastmod>
@@ -51,6 +81,16 @@
     <lastmod>2021-12-11T23:10:46+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/posts/fog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/posts/fog/"
+                />
   </url><url>
     <loc>https://gverduci.github.io/tags/photography/</loc>
     <lastmod>2021-12-11T23:10:46+00:00</lastmod>
@@ -61,11 +101,31 @@
     <lastmod>2021-12-11T15:59:42+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/posts/my-first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/posts/my-first-post/"
+                />
   </url><url>
     <loc>https://gverduci.github.io/tags/web/</loc>
     <lastmod>2021-12-11T15:59:42+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/tags/web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/tags/web/"
+                />
   </url><url>
     <loc>https://gverduci.github.io/about/</loc>
     <changefreq>monthly</changefreq>
