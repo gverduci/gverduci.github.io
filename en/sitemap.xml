@@ -130,6 +130,16 @@
     <loc>https://gverduci.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/about/"
+                />
   </url><url>
     <loc>https://gverduci.github.io/categories/</loc>
     <changefreq>monthly</changefreq>

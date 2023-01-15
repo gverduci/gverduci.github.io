@@ -127,6 +127,20 @@
                 href="https://gverduci.github.io/it/tags/web/"
                 />
   </url><url>
+    <loc>https://gverduci.github.io/it/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/about/"
+                />
+  </url><url>
     <loc>https://gverduci.github.io/it/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
