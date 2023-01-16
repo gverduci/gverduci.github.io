@@ -2,8 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gverduci.github.io/it/tags/c64/</loc>
+    <lastmod>2023-01-15T20:15:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/tags/c64/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/tags/c64/"
+                />
+  </url><url>
+    <loc>https://gverduci.github.io/it/posts/c64basicv2/</loc>
+    <lastmod>2023-01-15T20:15:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/posts/c64basicv2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/posts/c64basicv2/"
+                />
+  </url><url>
     <loc>https://gverduci.github.io/it/</loc>
-    <lastmod>2021-12-24T14:52:48+00:00</lastmod>
+    <lastmod>2023-01-15T20:15:50+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,8 +47,23 @@
                 href="https://gverduci.github.io/it/"
                 />
   </url><url>
+    <loc>https://gverduci.github.io/it/tags/opensource/</loc>
+    <lastmod>2023-01-15T20:15:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/tags/opensource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/tags/opensource/"
+                />
+  </url><url>
     <loc>https://gverduci.github.io/it/posts/</loc>
-    <lastmod>2021-12-24T14:52:48+00:00</lastmod>
+    <lastmod>2023-01-15T20:15:50+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -30,6 +75,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://gverduci.github.io/it/posts/"
+                />
+  </url><url>
+    <loc>https://gverduci.github.io/it/tags/</loc>
+    <lastmod>2023-01-15T20:15:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/tags/"
                 />
   </url><url>
     <loc>https://gverduci.github.io/it/tags/report/</loc>
@@ -60,21 +120,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://gverduci.github.io/it/posts/covidcs/"
-                />
-  </url><url>
-    <loc>https://gverduci.github.io/it/tags/</loc>
-    <lastmod>2021-12-24T14:52:48+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gverduci.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://gverduci.github.io/it/tags/"
                 />
   </url><url>
     <loc>https://gverduci.github.io/it/tags/fotografia/</loc>

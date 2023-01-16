@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gverduci</title>
+    <title>my Blog on gverduci</title>
     <link>https://gverduci.github.io/</link>
-    <description>Recent content on gverduci</description>
+    <description>Recent content in my Blog on gverduci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Dec 2021 14:52:48 +0000</lastBuildDate><atom:link href="https://gverduci.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Jan 2023 20:15:50 +0000</lastBuildDate><atom:link href="https://gverduci.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C64basicv2</title>
+      <link>https://gverduci.github.io/posts/c64basicv2/</link>
+      <pubDate>Sun, 15 Jan 2023 20:15:50 +0000</pubDate>
+      
+      <guid>https://gverduci.github.io/posts/c64basicv2/</guid>
+      <description>The Commodore 64 was my first computer, and I became a computer engineer because of it.
+Today, 40 years after its release, many developers are producing software for this amazing machine.
+To kill time, I started reading an old book &amp;ldquo;Creating Arcade Games On The Commodore 64&amp;rdquo; written by Robert Camp and published in 1984.
+The book contains many code examples, and when I booted up my c64 to copy this code (as I did when I was a teenager) I realized: I have lost the conveniences of newer editors.</description>
+    </item>
+    
     <item>
       <title>My city report</title>
       <link>https://gverduci.github.io/posts/covidcs/</link>
@@ -39,12 +51,12 @@ Scripts</description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>About me</title>
       <link>https://gverduci.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gverduci.github.io/about/</guid>
-      <description>I am &amp;hellip;</description>
+      <description>I like experimenting, studying new things, reading, photography, drawing relaxes me. Computer science is my greatest passion and my job: this is not always a good thing.</description>
     </item>
     
   </channel>
