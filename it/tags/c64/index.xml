@@ -5,18 +5,17 @@
     <link>https://gverduci.github.io/it/tags/c64/</link>
     <description>Recent content in c64 on gverduci</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jan 2023 20:15:50 +0000</lastBuildDate><atom:link href="https://gverduci.github.io/it/tags/c64/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language>
+    <lastBuildDate>Sun, 15 Jan 2023 20:15:50 +0000</lastBuildDate>
+    <atom:link href="https://gverduci.github.io/it/tags/c64/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C64basicv2</title>
       <link>https://gverduci.github.io/it/posts/c64basicv2/</link>
       <pubDate>Sun, 15 Jan 2023 20:15:50 +0000</pubDate>
-      
       <guid>https://gverduci.github.io/it/posts/c64basicv2/</guid>
       <description>Il Commodore 64 è stato il mio primo computer e per colpa/merito suo sono diventato ingegnere informatico.
 A 40 anni dal suo rilascio, ancora oggi molti sviluppatori producono software per questa macchina meravigliosa.
 Per ammazzare il tempo, ho iniziato a leggere un vecchio libro &amp;ldquo;Creating Arcade Games On The Commodore 64&amp;rdquo; scritto da Robert Camp e pubblicato nel 1984. Il libro contine molti esempi di codice, e quando ho avviato il mio c64 per cpiare questo codice (come facevo da ragazzo) ho realizzato: ho perso le comodità dei nuovi editor.</description>
     </item>
-    
   </channel>
 </rss>
