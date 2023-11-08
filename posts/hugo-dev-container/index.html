@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>gverduci</title>
+    <title>HUGO and VSCode Dev Container | gverduci</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="a simple and seldom updated blog">
+    <meta name="description" content="Using HUGO with VSCode Dev Container">
     <meta name="generator" content="Hugo 0.120.3">
     
     
@@ -37,20 +37,20 @@
 
     
     
-      <link href="/tags/index.xml" rel="alternate" type="application/rss+xml" title="gverduci" />
-      <link href="/tags/index.xml" rel="feed" type="application/rss+xml" title="gverduci" />
-      
-    
-    
-    <meta property="og:title" content="Tags" />
-<meta property="og:description" content="a simple and seldom updated blog" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://gverduci.github.io/tags/" />
+    <meta property="og:title" content="HUGO and VSCode Dev Container" />
+<meta property="og:description" content="Using HUGO with VSCode Dev Container" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://gverduci.github.io/posts/hugo-dev-container/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-11-07T22:59:42+00:00" />
+<meta property="article:modified_time" content="2023-11-07T22:59:42+00:00" />
 
-<meta itemprop="name" content="Tags">
-<meta itemprop="description" content="a simple and seldom updated blog"><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Tags"/>
-<meta name="twitter:description" content="a simple and seldom updated blog"/>
+<meta itemprop="name" content="HUGO and VSCode Dev Container">
+<meta itemprop="description" content="Using HUGO with VSCode Dev Container"><meta itemprop="datePublished" content="2023-11-07T22:59:42+00:00" />
+<meta itemprop="dateModified" content="2023-11-07T22:59:42+00:00" />
+<meta itemprop="wordCount" content="323">
+<meta itemprop="keywords" content="web,HUGO,vscode," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="HUGO and VSCode Dev Container"/>
+<meta name="twitter:description" content="Using HUGO with VSCode Dev Container"/>
 
 	
   </head>
@@ -58,9 +58,11 @@
   <body class="ma0 avenir bg-near-black white-80">
 
     
+   
+  
 
   
-  <header class="cover bg-top" style="background-image: url('https://gverduci.github.io/images/frog.png');">
+  <header class="cover bg-top" style="background-image: url('https://gverduci.github.io/images/vscodedevcontainer.png');">
     <div class="bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
@@ -75,7 +77,7 @@
 <ul class="pl0 mr3">
     
     <li class="list f5 f4-ns fw4 dib pr3">
-        <a class="hover-white no-underline white-90" href="/it/tags/">it</a>
+        <a class="hover-white no-underline white-90" href="/it/posts/hugo-dev-container/">it</a>
     </li>
     
 </ul>
@@ -167,233 +169,104 @@
   </div>
 </nav>
 
-      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
-        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
-          Tags
-        </h1>
+      <div class="tc-l pv6 ph3 ph4-ns">
         
-          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
-            a simple and seldom updated blog
-          </h2>
+          <div class="f2 f1-l fw2 white-90 mb0 lh-title">HUGO and VSCode Dev Container</div>
+          
+            <div class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+              Using HUGO with VSCode Dev Container
+            </div>
+          
         
       </div>
     </div>
   </header>
 
 
+
     <main class="pb7" role="main">
       
-    
-  <article class="cf pa3 pa4-m pa4-l">
-    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links light-silver">
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        POSTS
+      </aside>
       
+
+
+
+
+
+
+
+
+
+
+
+      <h1 class="f1 athelas mt3 mb1">HUGO and VSCode Dev Container</h1>
+      
+      <p class="tracked">
+        By <strong>gverduci</strong>
+      </p>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2023-11-07T22:59:42Z">November 7, 2023</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links light-silver pr4-l w-two-thirds-l"><p><a href="https://gohugo.io/">HUGO</a> is a particular Content Management System: with HUGO, you can generate a static website in the content editing phase directly on the content creator&rsquo;s PC. You can publish a website using a simple disk space, without dbms or an application server.</p>
+<p>I realized this blog using HUGO, for example.</p>
+<p>The website sources are in a folder (e.g. /home/myname/myblog-src), to compile them I need to run the HUGO client (HUGO). This client generates static files in the public folder (/home/myname/myblog-src/public).</p>
+<p>I did not want to install another software on my PC, so I have chosen to use a docker container with HUGO. This docker image is started with a first volume mounting the host folder with sources (/home/myname/myblog-src) and a second volume mounting the host folder with thestatic site on the public folder in the image (/home/myname/myblog-static). With this environment, I manage with simplicity two repositories GitHub:  the one of source files and static site generated (the website accessible by browser). Visual Studio Code runs on the host.</p>
+<p>I think this is a good way to work with HUGO but is not pleasant cause of the need to move in the image console to compile, to run the server, or to create new content.</p>
+<p>With VSCode Dev Container I rewrite this process and the result id wonderful: I can work with HUGO like I have the software installed on the host!</p>
+<p>I launched the VSCode &ldquo;Dev Containers: Add Dev Container Configuration Files&hellip;&rdquo; command and then I chose the container &ldquo;HUGO community&rdquo;: VSCode created the new folder .devcontainer with the configuration file devcontainer.json and the Dockerfile. After a little tweaking with the configuration to use HUGO_extended and to mount the volume on the public folder, I ran the command &ldquo;Dev Containers: Reopen in Container&rdquo; to obtain a VSCode containerized with hogo client directly in his terminal: now is like using HUGO installed on the host machine!</p>
+<p>I wrote this content using a Dev Container.</p>
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/web/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">web</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/hugo/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">HUGO</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/vscode/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">vscode</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
     </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/posts/my-first-post/">My First Post</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
   </article>
-  <div class="mw8 center">
-    <section class="ph4">
-      
-        <h2 class="f1">
-          <a href="/tags/hugo/" class="link blue hover-black">
-            Tag: HUGO
-          </a>
-        </h2>
-        
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/hugo-dev-container/" class="link black dim">
-        HUGO and VSCode Dev Container
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      HUGO is a particular Content Management System: with HUGO, you can generate a static website in the content editing phase directly on the content creator&rsquo;s PC. You can publish a website using a simple disk space, without dbms or an application server.
-I realized this blog using HUGO, for example.
-The website sources are in a folder (e.g. /home/myname/myblog-src), to compile them I need to run the HUGO client (HUGO). This client generates static files in the public folder (/home/myname/myblog-src/public).
-    </div>
-  </div>
-</div>
-
-        
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/my-first-post/" class="link black dim">
-        My First Post
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Last week I meet HUGO, an awesome framework for building website, and this is my test.
-    </div>
-  </div>
-</div>
-
-        
-      
-        <h2 class="f1">
-          <a href="/tags/vscode/" class="link blue hover-black">
-            Tag: vscode
-          </a>
-        </h2>
-        
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/hugo-dev-container/" class="link black dim">
-        HUGO and VSCode Dev Container
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      HUGO is a particular Content Management System: with HUGO, you can generate a static website in the content editing phase directly on the content creator&rsquo;s PC. You can publish a website using a simple disk space, without dbms or an application server.
-I realized this blog using HUGO, for example.
-The website sources are in a folder (e.g. /home/myname/myblog-src), to compile them I need to run the HUGO client (HUGO). This client generates static files in the public folder (/home/myname/myblog-src/public).
-    </div>
-  </div>
-</div>
-
-        
-      
-        <h2 class="f1">
-          <a href="/tags/web/" class="link blue hover-black">
-            Tag: web
-          </a>
-        </h2>
-        
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/hugo-dev-container/" class="link black dim">
-        HUGO and VSCode Dev Container
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      HUGO is a particular Content Management System: with HUGO, you can generate a static website in the content editing phase directly on the content creator&rsquo;s PC. You can publish a website using a simple disk space, without dbms or an application server.
-I realized this blog using HUGO, for example.
-The website sources are in a folder (e.g. /home/myname/myblog-src), to compile them I need to run the HUGO client (HUGO). This client generates static files in the public folder (/home/myname/myblog-src/public).
-    </div>
-  </div>
-</div>
-
-        
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/my-first-post/" class="link black dim">
-        My First Post
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Last week I meet HUGO, an awesome framework for building website, and this is my test.
-    </div>
-  </div>
-</div>
-
-        
-      
-        <h2 class="f1">
-          <a href="/tags/c64/" class="link blue hover-black">
-            Tag: c64
-          </a>
-        </h2>
-        
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/c64basicv2/" class="link black dim">
-        C64basicv2
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      The Commodore 64 was my first computer, and I became a computer engineer because of it.
-Today, 40 years after its release, many developers are producing software for this amazing machine.
-To kill time, I started reading an old book &ldquo;Creating Arcade Games On The Commodore 64&rdquo; written by Robert Camp and published in 1984.
-The book contains many code examples, and when I booted up my c64 to copy this code (as I did when I was a teenager) I realized: I have lost the conveniences of newer editors.
-    </div>
-  </div>
-</div>
-
-        
-      
-        <h2 class="f1">
-          <a href="/tags/opensource/" class="link blue hover-black">
-            Tag: opensource
-          </a>
-        </h2>
-        
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/c64basicv2/" class="link black dim">
-        C64basicv2
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      The Commodore 64 was my first computer, and I became a computer engineer because of it.
-Today, 40 years after its release, many developers are producing software for this amazing machine.
-To kill time, I started reading an old book &ldquo;Creating Arcade Games On The Commodore 64&rdquo; written by Robert Camp and published in 1984.
-The book contains many code examples, and when I booted up my c64 to copy this code (as I did when I was a teenager) I realized: I have lost the conveniences of newer editors.
-    </div>
-  </div>
-</div>
-
-        
-      
-        <h2 class="f1">
-          <a href="/tags/report/" class="link blue hover-black">
-            Tag: report
-          </a>
-        </h2>
-        
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/covidcs/" class="link black dim">
-        My city report
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Disclaimer
-I am a software developer, and am not an infectious disease expert or epidemiologist. This chart was created for study and personal use only. The data is sourced from ASP. This chart should not be used for medical decision making.
-Chart
-Data source
-Scripts
-    </div>
-  </div>
-</div>
-
-        
-      
-        <h2 class="f1">
-          <a href="/tags/photography/" class="link blue hover-black">
-            Tag: photography
-          </a>
-        </h2>
-        
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/fog/" class="link black dim">
-        Fog
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      I was lucky! I didn&rsquo;t even look at the weather forecast, got up early, grabbed my camera and went out. And this is one of the pictures.
-    </div>
-  </div>
-</div>
-
-        
-      
-    </section>
-  </div>
 
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">

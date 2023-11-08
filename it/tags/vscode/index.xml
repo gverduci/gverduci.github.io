@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>web on gverduci</title>
-    <link>https://gverduci.github.io/it/tags/web/</link>
-    <description>Recent content in web on gverduci</description>
+    <title>vscode on gverduci</title>
+    <link>https://gverduci.github.io/it/tags/vscode/</link>
+    <description>Recent content in vscode on gverduci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <lastBuildDate>Tue, 07 Nov 2023 22:59:42 +0000</lastBuildDate>
-    <atom:link href="https://gverduci.github.io/it/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gverduci.github.io/it/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HUGO e VSCode Dev Container</title>
       <link>https://gverduci.github.io/it/posts/hugo-dev-container/</link>
@@ -16,13 +16,6 @@
       <description>HUGO è un Content Management System particolare: pemette di generare un sito web (statico) in fase di editing dei contenuti sul pc del content creator. Questa caratteristica consente di pubblicare le pagine web usando un semplice spazio disco, senza bisogno di dbms o di application server.
 Questo blog, ad esempio, è realizzato con HUGO.
 Il sito web sorgente si trova in una cartella (ad esempio /home/myname/myblog-src) e per compilarlo è necessario lanciare il client di ugo (HUGO).</description>
-    </item>
-    <item>
-      <title>Il mio primo post</title>
-      <link>https://gverduci.github.io/it/posts/my-first-post/</link>
-      <pubDate>Sat, 11 Dec 2021 15:59:42 +0000</pubDate>
-      <guid>https://gverduci.github.io/it/posts/my-first-post/</guid>
-      <description>La settimana passata ho incontato HUGO, un bellissimo framework per la costruzione di siti web, e questo è il mio test.</description>
     </item>
   </channel>
 </rss>

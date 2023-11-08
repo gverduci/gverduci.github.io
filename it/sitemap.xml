@@ -2,6 +2,111 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gverduci.github.io/it/tags/hugo/</loc>
+    <lastmod>2023-11-07T22:59:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/tags/hugo/"
+                />
+  </url><url>
+    <loc>https://gverduci.github.io/it/posts/hugo-dev-container/</loc>
+    <lastmod>2023-11-07T22:59:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/posts/hugo-dev-container/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/posts/hugo-dev-container/"
+                />
+  </url><url>
+    <loc>https://gverduci.github.io/it/</loc>
+    <lastmod>2023-11-07T22:59:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/"
+                />
+  </url><url>
+    <loc>https://gverduci.github.io/it/posts/</loc>
+    <lastmod>2023-11-07T22:59:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/posts/"
+                />
+  </url><url>
+    <loc>https://gverduci.github.io/it/tags/</loc>
+    <lastmod>2023-11-07T22:59:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/tags/"
+                />
+  </url><url>
+    <loc>https://gverduci.github.io/it/tags/vscode/</loc>
+    <lastmod>2023-11-07T22:59:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/tags/vscode/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/tags/vscode/"
+                />
+  </url><url>
+    <loc>https://gverduci.github.io/it/tags/web/</loc>
+    <lastmod>2023-11-07T22:59:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gverduci.github.io/tags/web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://gverduci.github.io/it/tags/web/"
+                />
+  </url><url>
     <loc>https://gverduci.github.io/it/tags/c64/</loc>
     <lastmod>2023-01-15T20:15:50+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -32,21 +137,6 @@
                 href="https://gverduci.github.io/it/posts/c64basicv2/"
                 />
   </url><url>
-    <loc>https://gverduci.github.io/it/</loc>
-    <lastmod>2023-01-15T20:15:50+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gverduci.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://gverduci.github.io/it/"
-                />
-  </url><url>
     <loc>https://gverduci.github.io/it/tags/opensource/</loc>
     <lastmod>2023-01-15T20:15:50+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -60,36 +150,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://gverduci.github.io/it/tags/opensource/"
-                />
-  </url><url>
-    <loc>https://gverduci.github.io/it/posts/</loc>
-    <lastmod>2023-01-15T20:15:50+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gverduci.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://gverduci.github.io/it/posts/"
-                />
-  </url><url>
-    <loc>https://gverduci.github.io/it/tags/</loc>
-    <lastmod>2023-01-15T20:15:50+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gverduci.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://gverduci.github.io/it/tags/"
                 />
   </url><url>
     <loc>https://gverduci.github.io/it/tags/report/</loc>
@@ -155,21 +215,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://gverduci.github.io/it/posts/my-first-post/"
-                />
-  </url><url>
-    <loc>https://gverduci.github.io/it/tags/web/</loc>
-    <lastmod>2021-12-11T15:59:42+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gverduci.github.io/tags/web/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://gverduci.github.io/it/tags/web/"
                 />
   </url><url>
     <loc>https://gverduci.github.io/it/about/</loc>
